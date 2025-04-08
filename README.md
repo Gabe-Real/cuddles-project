@@ -1,4 +1,3 @@
-# These files are used by the bot Cuddles [/] 
-in the Mando Xd Nation discord server
+These files are used by the Cuddles [/] discord bot
 
 
